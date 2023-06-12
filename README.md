@@ -1,1 +1,1 @@
-# quantumult-x
+自用quantumult x配置
